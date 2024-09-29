@@ -48,7 +48,7 @@ Steps
 1.	Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-repo/quantum-cryptography-smart-grid.git
+git clone https://github.com/Suryakausthub/Quantum-Cryptography/
 2.	Set up Cisco Packet Tracer as per the official documentation.
 3.	(Optional) If using Python scripts:
 bash
